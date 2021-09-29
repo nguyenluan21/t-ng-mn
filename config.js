@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'Đúng vậy ',
     btnNo: 'Không phải',
     question:'Lý do bạn bị điên',
-    btnReply: 'Lý do',
+    btnReply: 'Gửi lý do',
     reply: 'Tôi thừa nhận rồi nên không cí lý do j hết',
     mess: 'Tôi biết mà',
     messDesc: 'hahaha',

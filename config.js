@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Không phải',
     question:'Lý do bạn bị điên',
     btnReply: 'Gửi lý do',
-    reply: 'Tôi thừa nhận rồi nên không cí lý do j hết',
+    reply: 'Tôi thừa nhận rồi nên không có lý do j hết',
     mess: 'Tôi biết mà',
     messDesc: 'hahaha đùa tí thôi',
     btnAccept: 'haiza',

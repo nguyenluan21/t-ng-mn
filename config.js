@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi lý do',
     reply: 'Tôi thừa nhận rồi nên không cí lý do j hết',
     mess: 'Tôi biết mà',
-    messDesc: 'hahaha',
+    messDesc: 'hahaha đùa tí thôi',
     btnAccept: 'haiza',
     messLink: 'https://www.facebook.com/luan.kenny.2001/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
